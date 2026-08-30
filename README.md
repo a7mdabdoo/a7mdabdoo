@@ -1,19 +1,19 @@
 <h1 align="center">Hi there 👋, I'm Ahmed Mohamed Abdo</h1>
-<h3 align="center">2nd Year CS Student @ FCAI | South Valley University</h3>
+<h3 align="center">FCAI Student | South Valley University</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=FCAI+Student+(2nd+Year);Practicing+Problem+Solving;Learning+JS+Everywhere" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=FCAI+Student+(2nd+Year);Practicing+Problem+Solving" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me
-- 🎓 2nd-year student at the **Faculty of Computers and Artificial Intelligence (South Valley University)**.
-- 🚀 Enrolled in **[JavaScript Everywhere](https://github.com/a7mdabdoo/javascript-everywhere)** — A 26-week journey mastering JavaScript & TypeScript across 7 application domains.
-- 🌱 Focusing on core computer science concepts including **C++**, **Object-Oriented Programming (OOP)**, and **Algorithms**.
+- 🎓 2nd-year student at the **Faculty of Computers and Artificial Intelligence** (South Valley University).
+- 🚀 Following **[JavaScript Everywhere](https://github.com/a7mdabdoo/javascript-everywhere)** 26-week learning journey.
+- 🌱 Currently focusing on core computer science concepts including **C++**, **Object-Oriented Programming (OOP)**, and **Algorithms**.
 - 📱 Learning **Flutter** for mobile application development.
 - 🧩 Actively practicing competitive programming and solving problems on **Codeforces** and in university contests.
-- 🎯 **Goal:** Build a strong programming foundation to become a professional **Software & App Developer**.
+- 🎯 **Goal:** Build a strong programming foundation to become a professional **Flutter App Developer**.
 
 ---
 
@@ -40,9 +40,9 @@
 ---
 
 ### 🚀 Key Projects
-- 🍽️ **[Restaurant POS System](https://github.com/a7mdabdoo/Restaurant-POS-System) | C++:** Console-based Point of Sale application with modular architecture, JSON storage, order management, and invoice printing.
-- 🚀 **[JavaScript Everywhere](https://github.com/a7mdabdoo/javascript-everywhere) | JS/TS:** 26-week journey tracking repository covering 7 JS/TS tracks.
-- 🌐 **TaskFlow | HTML, CSS, JS:** Interactive Kanban task management board with Dark Mode and real-time state manipulation.
+- **[Restaurant POS System](https://github.com/a7mdabdoo/Restaurant-POS-System) | C++:** Console POS application using STL and nlohmann/json for managing orders, discounts, and invoice generation.
+- **[Smart Library System](https://github.com/Dev-Ibrahim-Ahmed/SmartLibrarySystem) | C++:** Collaborative OOP project with @Dev-Ibrahim-Ahmed demonstrating OOP class hierarchy and borrowing workflows.
+- **TaskFlow | HTML, CSS, JS:** Kanban-style task management board with dynamic task movement and dark mode.
 - **OOP Task Management System | Python:** Developed a CLI task manager using OOP concepts and the `datetime` module for automated deadline tracking.
 - **File-Based Database Manager | Dart:** Engineered a CLI tool with full CRUD operations, using CSV file handling and JSON decoding for data persistence.
 - **LinkedIn UI Clone (Team Project) | HTML, CSS, JS, Bootstrap:** Collaborated to build a responsive front-end LinkedIn clone as the Creativa Web Track final graduation project.
@@ -83,5 +83,5 @@
   <a href="mailto:ahmed@mohamed-abdo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://wa.me/201118115131"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
   <a href="https://www.facebook.com/A7Md1411/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/></a>
-  <a href="https://www.linkedin.com/in/ahmd-mhmd-abdo/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/a7md3bdo/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
