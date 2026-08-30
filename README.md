@@ -42,7 +42,7 @@
 - **[Restaurant POS System](https://github.com/a7mdabdoo/Restaurant-POS-System) | C++:** Console POS application using STL and nlohmann/json for managing orders, discounts, and invoice generation.
 - **[Smart Library System](https://github.com/Dev-Ibrahim-Ahmed/SmartLibrarySystem) | C++:** Collaborative OOP project with @Dev-Ibrahim-Ahmed demonstrating OOP class hierarchy and borrowing workflows.
 - **[JavaScript Everywhere](https://github.com/a7mdabdoo/javascript-everywhere) | JS/TS:** 26-week curriculum tracking repository covering 7 JS/TS application tracks.
-- **[Generative AI App](https://github.com/a7mdabdoo/final_project_codecamp) | Python:** Web application built with Streamlit and Google Generative AI (Gemini).
+- **[Streamlit Web App](https://github.com/a7mdabdoo/final_project_codecamp) | Python:** Interactive multi-page web application built with Streamlit.
 - **[OOP Task Management System](https://github.com/a7mdabdoo/Task-Management) | Python:** CLI task manager built with OOP concepts and datetime tracking.
 - **[File-Based Database Manager](https://github.com/a7mdabdoo/DataBase-By-dart) | Dart:** CLI tool with CRUD operations, CSV handling, and JSON decoding for persistence.
 - **[LinkedIn UI Clone](https://github.com/a7mdabdoo/final-project) | HTML, CSS, JS, Bootstrap:** Responsive front-end LinkedIn clone developed as the Creativa Web Track graduation project.
