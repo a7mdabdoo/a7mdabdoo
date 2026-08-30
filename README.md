@@ -43,7 +43,7 @@
 - **[Smart Library System](https://github.com/Dev-Ibrahim-Ahmed/SmartLibrarySystem) | C++:** Collaborative OOP project with @Dev-Ibrahim-Ahmed demonstrating OOP class hierarchy and borrowing workflows.
 - **[JavaScript Everywhere](https://github.com/a7mdabdoo/javascript-everywhere) | JS/TS:** 26-week curriculum tracking repository covering 7 JS/TS application tracks.
 - **[Generative AI App](https://github.com/a7mdabdoo/final_project_codecamp) | Python:** Web application built with Streamlit and Google Generative AI (Gemini).
-- **OOP Task Management System | Python:** CLI task manager built with OOP concepts and datetime tracking.
+- **[OOP Task Management System](https://github.com/a7mdabdoo/Task-Management) | Python:** CLI task manager built with OOP concepts and datetime tracking.
 - **[File-Based Database Manager](https://github.com/a7mdabdoo/DataBase-By-dart) | Dart:** CLI tool with CRUD operations, CSV handling, and JSON decoding for persistence.
 - **[LinkedIn UI Clone](https://github.com/a7mdabdoo/final-project) | HTML, CSS, JS, Bootstrap:** Responsive front-end LinkedIn clone developed as the Creativa Web Track graduation project.
 - **[Twitter Interface Clone](https://github.com/a7mdabdoo/clone-Twitter) | HTML, CSS:** Static front-end Twitter clone applying core CSS layouts.
