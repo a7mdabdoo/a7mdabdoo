@@ -10,7 +10,7 @@
 ### About Me
 - 2nd-year student at the **Faculty of Computers and Artificial Intelligence** (South Valley University).
 - Following **[JavaScript Everywhere](https://github.com/a7mdabdoo/javascript-everywhere)** 26-week learning curriculum across 7 application domains.
-- Focused on core computer science foundations: **C++**, **Object-Oriented Programming (OOP)**, **Data Structures**, and **Algorithms**.
+- Solid foundation in **C++**, **Object-Oriented Programming (OOP)**, **Data Structures**, and **Algorithms**.
 - Practicing competitive programming and problem-solving on **Codeforces** and collegiate contests.
 - Developing cross-platform mobile apps with **Flutter** and building responsive web applications.
 
