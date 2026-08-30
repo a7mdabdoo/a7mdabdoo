@@ -43,7 +43,7 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=A7Md3BD0&theme=radical&hide_border=true" alt="Ahmed's GitHub stats" />
+  <img src="https://streak-stats.demolab.com?user=a7mdabdoo&theme=radical&hide_border=true" alt="Ahmed's GitHub stats" />
 </p>
 
 ### 🧩 Codeforces Stats
