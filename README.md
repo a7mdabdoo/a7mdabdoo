@@ -1,5 +1,5 @@
 <h1 align="center">Ahmed Mohamed Abdo</h1>
-<h3 align="center">Computer Science Student @ FCAI | South Valley University</h3>
+<h3 align="center">Computer Science Student @ FCAI | South Valley National University</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=FCAI+Student+(2nd+Year);Practicing+Problem+Solving" alt="Typing SVG" />
@@ -8,7 +8,7 @@
 ---
 
 ### About Me
-- 2nd-year student at the **Faculty of Computers and Artificial Intelligence** (South Valley University).
+- 2nd-year student at the **Faculty of Computers and Artificial Intelligence** (South Valley National University).
 - Following **[JavaScript Everywhere](https://github.com/a7mdabdoo/javascript-everywhere)** 26-week learning curriculum across 7 application domains.
 - Solid foundation in **C++**, **Object-Oriented Programming (OOP)**, **Data Structures**, and **Algorithms**.
 - Practicing competitive programming and problem-solving on **Codeforces** and collegiate contests.
