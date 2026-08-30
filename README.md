@@ -1,5 +1,5 @@
-<h1 align="center">Hi there 👋, I'm Ahmed Mohamed Abdo</h1>
-<h3 align="center">FCAI Student | South Valley University</h3>
+<h1 align="center">Ahmed Mohamed Abdo</h1>
+<h3 align="center">Computer Science Student @ FCAI | South Valley University</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=FCAI+Student+(2nd+Year);Practicing+Problem+Solving" alt="Typing SVG" />
@@ -7,17 +7,16 @@
 
 ---
 
-### 👨‍💻 About Me
-- 🎓 2nd-year student at the **Faculty of Computers and Artificial Intelligence** (South Valley University).
-- 🚀 Following **[JavaScript Everywhere](https://github.com/a7mdabdoo/javascript-everywhere)** 26-week learning journey.
-- 🌱 Currently focusing on core computer science concepts including **C++**, **Object-Oriented Programming (OOP)**, and **Algorithms**.
-- 📱 Learning **Flutter** for mobile application development.
-- 🧩 Actively practicing competitive programming and solving problems on **Codeforces** and in university contests.
-- 🎯 **Goal:** Build a strong programming foundation to become a professional **Flutter App Developer**.
+### About Me
+- 2nd-year student at the **Faculty of Computers and Artificial Intelligence** (South Valley University).
+- Following **[JavaScript Everywhere](https://github.com/a7mdabdoo/javascript-everywhere)** 26-week learning curriculum across 7 application domains.
+- Focused on core computer science foundations: **C++**, **Object-Oriented Programming (OOP)**, **Data Structures**, and **Algorithms**.
+- Practicing competitive programming and problem-solving on **Codeforces** and collegiate contests.
+- Developing cross-platform mobile apps with **Flutter** and building responsive web applications.
 
 ---
 
-### 🛠️ Languages and Tools
+### Languages and Tools
 <p align="left">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -39,24 +38,24 @@
 
 ---
 
-### 🚀 Key Projects
+### Featured Projects
 - **[Restaurant POS System](https://github.com/a7mdabdoo/Restaurant-POS-System) | C++:** Console POS application using STL and nlohmann/json for managing orders, discounts, and invoice generation.
 - **[Smart Library System](https://github.com/Dev-Ibrahim-Ahmed/SmartLibrarySystem) | C++:** Collaborative OOP project with @Dev-Ibrahim-Ahmed demonstrating OOP class hierarchy and borrowing workflows.
-- **TaskFlow | HTML, CSS, JS:** Kanban-style task management board with dynamic task movement and dark mode.
-- **OOP Task Management System | Python:** Developed a CLI task manager using OOP concepts and the `datetime` module for automated deadline tracking.
-- **File-Based Database Manager | Dart:** Engineered a CLI tool with full CRUD operations, using CSV file handling and JSON decoding for data persistence.
-- **LinkedIn UI Clone (Team Project) | HTML, CSS, JS, Bootstrap:** Collaborated to build a responsive front-end LinkedIn clone as the Creativa Web Track final graduation project.
-- **Twitter Interface Clone | HTML, CSS:** Independently designed a static front-end Twitter clone to solidify foundational web design principles.
-- **Alfjr Academy | WordPress & Graphic Design:** Developed a fully functional WordPress educational website and designed customized promotional graphics.
+- **[JavaScript Everywhere](https://github.com/a7mdabdoo/javascript-everywhere) | JS/TS:** 26-week curriculum tracking repository covering 7 JS/TS application tracks.
+- **[OOP Task Management System](https://github.com/a7mdabdoo/final_project_codecamp) | Python:** CLI task manager built with OOP concepts and datetime tracking.
+- **[File-Based Database Manager](https://github.com/a7mdabdoo/DataBase-By-dart) | Dart:** CLI tool with CRUD operations, CSV handling, and JSON decoding for persistence.
+- **[LinkedIn UI Clone](https://github.com/a7mdabdoo/final-project) | HTML, CSS, JS, Bootstrap:** Responsive front-end LinkedIn clone developed as the Creativa Web Track graduation project.
+- **[Twitter Interface Clone](https://github.com/a7mdabdoo/clone-Twitter) | HTML, CSS:** Static front-end Twitter clone applying core CSS layouts.
+- **Alfjr Academy | WordPress & Graphic Design:** Educational website development and promotional visual assets.
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=a7mdabdoo&theme=radical&hide_border=true" alt="Ahmed's GitHub stats" />
 </p>
 
-### 🧩 Codeforces Stats
+### Codeforces Stats
 <p align="center">
   <a href="https://codeforces.com/profile/a7md3bdo">
     <img 
@@ -66,7 +65,7 @@
   </a>
 </p>
 
-### 📈 Codeforces Rating Graph
+### Codeforces Rating Graph
 <p align="center">
   <a href="https://codeforces.com/profile/a7md3bdo">
     <img 
@@ -78,10 +77,10 @@
 
 ---
 
-### 📫 Connect With Me
+### Connect With Me
 <p align="center">
   <a href="mailto:ahmed@mohamed-abdo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://wa.me/201118115131"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
   <a href="https://www.facebook.com/A7Md1411/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/></a>
-  <a href="https://www.linkedin.com/in/a7md3bdo/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/ahmd-mhmd-abdo/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
