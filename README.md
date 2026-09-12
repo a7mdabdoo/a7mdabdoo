@@ -40,7 +40,7 @@
 ---
 
 ### Featured Projects
-- **[جامع تلاوات المنشاوي (Al-Minshawi Quran App)](https://github.com/a7mdabdoo/minshawi-recitations-app) | Flutter, Dart, BLoC:** A complete offline-first Islamic mobile audio application architected with Clean Architecture & Cubit state management. Features background audio playback service (`just_audio` / `audio_service`), local caching via Hive, custom playlists, sleep timer, and a fully signed production APK release.
+- **[Al-Minshawi Quran Recitations App](https://github.com/a7mdabdoo/minshawi-recitations-app) | Flutter, Dart, BLoC:** A production-ready, offline-first mobile audio application architected with Clean Architecture & Cubit state management. Features background audio playback service (`just_audio` / `audio_service`), local Hive caching, custom playlists, sleep timer, and a fully signed production APK release.
 - **[Restaurant POS System](https://github.com/a7mdabdoo/Restaurant-POS-System) | C++:** Console POS application using STL and nlohmann/json for managing orders, discounts, and invoice generation.
 - **[Smart Library System](https://github.com/Dev-Ibrahim-Ahmed/SmartLibrarySystem) | C++:** Collaborative OOP project with @Dev-Ibrahim-Ahmed demonstrating OOP class hierarchy and borrowing workflows.
 - **[JavaScript Everywhere](https://github.com/a7mdabdoo/javascript-everywhere) | JS/TS:** 26-week curriculum tracking repository covering 7 JS/TS application tracks.
