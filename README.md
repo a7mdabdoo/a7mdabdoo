@@ -9,7 +9,11 @@
 
 ### About Me
 - 2nd-year student at the **Faculty of Computers and Artificial Intelligence** (South Valley National University).
-- Specializing in cross-platform mobile development with **Flutter & Dart**, focusing on **Clean Architecture**, robust state management (**BLoC / Cubit**), and offline-first persistence.
+- **6+ years** of continuous self-driven programming study and computer science learning.
+- **Mentor @ ICPC SVNU:** Mentoring collegiate students in C++, Data Structures, Algorithms, and Problem Solving.
+- **Web Development Intern @ Alfjr Academy:** Engineering educational platform features, WordPress architectures, and digital design.
+- Specializing in cross-platform mobile development with **Flutter & Dart**, focusing on **Clean Architecture**, **Firebase** (Auth, Firestore), robust state management (**BLoC / Cubit**), REST APIs (Dio), and offline-first persistence (Hive).
+- Proficient in leveraging modern **AI Development Tools** (ChatGPT, Claude, GitHub Copilot, Cursor) to accelerate engineering workflows and code quality.
 - Following **[JavaScript Everywhere](https://github.com/a7mdabdoo/javascript-everywhere)** 26-week learning curriculum across 7 application domains.
 - Solid foundation in **C++**, **Object-Oriented Programming (OOP)**, **Data Structures**, and **Algorithms**.
 - Practicing competitive programming and problem-solving on **Codeforces** and collegiate contests.
@@ -19,6 +23,7 @@
 ### Languages and Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
@@ -31,6 +36,7 @@
   <br>
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/AI%20Tools-%23000000.svg?style=for-the-badge&logo=openai&logoColor=white" alt="AI Tools" />
   <br>
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Photoshop" />
   <img src="https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Illustrator" />
