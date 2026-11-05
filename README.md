@@ -46,16 +46,14 @@
 ---
 
 ### Featured Projects
-- **[Al-Minshawi Quran Recitations App](https://github.com/a7mdabdoo/minshawi-recitations-app) | Flutter, Dart, BLoC:** A production-ready, offline-first mobile audio application architected with Clean Architecture & Cubit state management. Features background audio playback service (`just_audio` / `audio_service`), local Hive caching, custom playlists, sleep timer, and a fully signed production APK release.
-- **[Restaurant POS System](https://github.com/a7mdabdoo/Restaurant-POS-System) | C++:** Console POS application using STL and nlohmann/json for managing orders, discounts, and invoice generation.
-- **[Smart Library System](https://github.com/Dev-Ibrahim-Ahmed/SmartLibrarySystem) | C++:** Collaborative OOP project with @Dev-Ibrahim-Ahmed demonstrating OOP class hierarchy and borrowing workflows.
+- **[Multi-Vendor E-Commerce App](https://github.com/a7mdabdoo/multi-vendor-ecommerce-app) | Flutter, Dart, BLoC, Clean Architecture:** A production-grade multi-vendor marketplace mobile application architected with Feature-First Clean Architecture, BLoC state management, and GoRouter. Features dynamic vendor storefronts, real-time catalog search & filters, vendor-grouped cart management with store-based subtotals, resilient Dio networking with auth interceptors, and GetIt service locator.
+- **[Al-Minshawi Quran Recitations App](https://github.com/a7mdabdoo/minshawi-recitations-app) | Flutter, Dart, Cubit:** A production-ready, offline-first mobile audio application architected with Clean Architecture & Cubit state management. Features background audio playback service (`just_audio` / `audio_service`), local Hive caching, custom playlists, sleep timer, and a fully signed production APK release on APKPure.
+- **[Restaurant POS System](https://github.com/a7mdabdoo/Restaurant-POS-System) | C++, STL, JSON:** Modular console Point of Sale application engineered in C++ with clear header/source separation (`include/`, `src/`), order lifecycle management, dynamic discount calculations, automated invoice generation, and JSON data persistence via `nlohmann/json`.
+- **Alfjr Academy | WordPress & Graphic Design:** Full educational platform engineering, custom WordPress theme architectures, and promotional visual brand assets. Live at [alfjracademy.com](https://alfjracademy.com).
+- **[Visual Shark Tank](https://github.com/a7mdabdoo/visual-shark-tank) | Python & Streamlit:** Interactive investment analytics dashboard built with Pandas and Streamlit as the final graduation project for the Ministry of Youth's Code Camp initiative.
+- **[LinkedIn UI Clone](https://github.com/a7mdabdoo/final-project) | HTML, CSS, JS, Bootstrap:** Responsive front-end LinkedIn clone developed collaboratively as the Creativa Web Track graduation project.
+- **[Data Structures in C++ Track](https://github.com/a7mdabdoo/Data-Structures-Roadmap-CPP) | Modern C++:** Systematic implementations of foundational data structures (Array-based and Linked ADTs, Stacks, Queues) with asymptotic time & space complexity analysis.
 - **[JavaScript Everywhere](https://github.com/a7mdabdoo/javascript-everywhere) | JS/TS:** 26-week curriculum tracking repository covering 7 JS/TS application tracks.
-- **[Streamlit Web App](https://github.com/a7mdabdoo/final_project_codecamp) | Python:** Interactive multi-page web application built with Streamlit.
-- **[OOP Task Management System](https://github.com/a7mdabdoo/Task-Management) | Python:** CLI task manager built with OOP concepts and datetime tracking.
-- **[File-Based Database Manager](https://github.com/a7mdabdoo/DataBase-By-dart) | Dart:** CLI tool with CRUD operations, CSV handling, and JSON decoding for persistence.
-- **[LinkedIn UI Clone](https://github.com/a7mdabdoo/final-project) | HTML, CSS, JS, Bootstrap:** Responsive front-end LinkedIn clone developed as the Creativa Web Track graduation project.
-- **[Twitter Interface Clone](https://github.com/a7mdabdoo/clone-Twitter) | HTML, CSS:** Static front-end Twitter clone applying core CSS layouts.
-- **Alfjr Academy | WordPress & Graphic Design:** Educational website development and promotional visual assets.
 
 ---
 
