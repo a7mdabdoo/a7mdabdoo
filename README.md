@@ -11,8 +11,8 @@
 - 2nd-year student at the **Faculty of Computers and Artificial Intelligence** (South Valley National University).
 - **6+ years** of continuous self-driven programming study and computer science learning.
 - **Mentor @ ICPC SVNU:** Mentoring collegiate students in C++, Data Structures, Algorithms, and Problem Solving.
-- **Web Development Intern @ Alfjr Academy:** Engineering educational platform features, WordPress architectures, and digital design.
-- Specializing in cross-platform mobile development with **Flutter & Dart**, focusing on **Clean Architecture**, **Firebase** (Auth, Firestore), robust state management (**BLoC / Cubit**), REST APIs (Dio), and offline-first persistence (Hive).
+- **Web Development Intern @ Alfjr Academy:** Engineering educational platform features and custom WordPress systems.
+- Specializing in cross-platform mobile development with **Flutter & Dart**, focusing on **Clean Architecture**, **Firebase** (Auth, Firestore), and robust state management (**BLoC / Cubit**).
 - Proficient in leveraging modern **AI Development Tools** (ChatGPT, Claude, GitHub Copilot, Cursor) to accelerate engineering workflows and code quality.
 - Following **[JavaScript Everywhere](https://github.com/a7mdabdoo/javascript-everywhere)** 26-week learning curriculum across 7 application domains.
 - Solid foundation in **C++**, **Object-Oriented Programming (OOP)**, **Data Structures**, and **Algorithms**.
@@ -46,10 +46,10 @@
 ---
 
 ### Featured Projects
-- **[Multi-Vendor E-Commerce App](https://github.com/a7mdabdoo/multi-vendor-ecommerce-app) | Flutter, Dart, BLoC, Clean Architecture:** A production-grade multi-vendor marketplace mobile application architected with Feature-First Clean Architecture, BLoC state management, and GoRouter. Features dynamic vendor storefronts, real-time catalog search & filters, vendor-grouped cart management with store-based subtotals, resilient Dio networking with auth interceptors, and GetIt service locator.
-- **[Al-Minshawi Quran Recitations App](https://github.com/a7mdabdoo/minshawi-recitations-app) | Flutter, Dart, Cubit:** A production-ready, offline-first mobile audio application architected with Clean Architecture & Cubit state management. Features background audio playback service (`just_audio` / `audio_service`), local Hive caching, custom playlists, sleep timer, and a fully signed production APK release on APKPure.
+- **[Multi-Vendor E-Commerce App](https://github.com/a7mdabdoo/multi-vendor-ecommerce-app) | Flutter, Dart, BLoC, Clean Architecture:** A production-grade multi-vendor marketplace mobile application architected with Feature-First Clean Architecture, BLoC state management, and GoRouter. Features dynamic vendor storefronts, real-time catalog search & filters, vendor-grouped cart management with store-based subtotals, and GetIt service locator.
+- **[Al-Minshawi Quran Recitations App](https://github.com/a7mdabdoo/minshawi-recitations-app) | Flutter, Dart, Cubit:** A production-ready, offline-first mobile audio application architected with Clean Architecture & Cubit state management. Features background audio playback service (`just_audio` / `audio_service`), custom playlists, sleep timer, and a fully signed production APK release on APKPure.
 - **[Restaurant POS System](https://github.com/a7mdabdoo/Restaurant-POS-System) | C++, STL, JSON:** Modular console Point of Sale application engineered in C++ with clear header/source separation (`include/`, `src/`), order lifecycle management, dynamic discount calculations, automated invoice generation, and JSON data persistence via `nlohmann/json`.
-- **Alfjr Academy | WordPress & Graphic Design:** Full educational platform engineering, custom WordPress theme architectures, and promotional visual brand assets. Live at [alfjracademy.com](https://alfjracademy.com).
+- **Alfjr Academy | WordPress Development:** Full educational platform engineering, custom WordPress theme architectures, and student enrollment workflows. Live at [alfjracademy.com](https://alfjracademy.com).
 - **[Visual Shark Tank](https://github.com/a7mdabdoo/visual-shark-tank) | Python & Streamlit:** Interactive investment analytics dashboard built with Pandas and Streamlit as the final graduation project for the Ministry of Youth's Code Camp initiative.
 - **[LinkedIn UI Clone](https://github.com/a7mdabdoo/final-project) | HTML, CSS, JS, Bootstrap:** Responsive front-end LinkedIn clone developed collaboratively as the Creativa Web Track graduation project.
 - **[Data Structures in C++ Track](https://github.com/a7mdabdoo/Data-Structures-Roadmap-CPP) | Modern C++:** Systematic implementations of foundational data structures (Array-based and Linked ADTs, Stacks, Queues) with asymptotic time & space complexity analysis.
