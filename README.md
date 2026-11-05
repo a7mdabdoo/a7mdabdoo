@@ -12,6 +12,8 @@
 - **6+ years** of continuous self-driven programming study and computer science learning.
 - **Mentor @ ICPC SVNU:** Mentoring collegiate students in C++, Data Structures, Algorithms, and Problem Solving.
 - **Web Development Intern @ Alfjr Academy:** Engineering educational platform features and custom WordPress systems.
+- **NTI Scholar:** Mobile Application Development with Flutter, Freelancing Principles & Soft Skills (National Telecommunication Institute).
+- **Creativa Hub Qena (TIEC):** Web Design, React.js, and Flutter Mobile Development.
 - Specializing in cross-platform mobile development with **Flutter & Dart**, focusing on **Clean Architecture**, **Firebase** (Auth, Firestore), and robust state management (**BLoC / Cubit**).
 - Proficient in leveraging modern **AI Development Tools** (ChatGPT, Claude, GitHub Copilot, Cursor) to accelerate engineering workflows and code quality.
 - Following **[JavaScript Everywhere](https://github.com/a7mdabdoo/javascript-everywhere)** 26-week learning curriculum across 7 application domains.
