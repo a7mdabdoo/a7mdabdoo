@@ -11,7 +11,7 @@
 - 2nd-year student at the **Faculty of Computers and Artificial Intelligence** (South Valley National University).
 - **6+ years** of continuous self-driven programming study and computer science learning.
 - **Mentor @ ICPC SVNU:** Mentoring collegiate students in C++, Data Structures, Algorithms, and Problem Solving.
-- **Web Development Intern @ Alfjr Academy:** Engineering educational platform features and custom WordPress systems.
+- **Web Development @ Alfjr Academy:** Engineering educational platform features and custom WordPress systems.
 - **NTI Scholar:** Mobile Application Development with Flutter, Freelancing Principles & Soft Skills (National Telecommunication Institute).
 - **Creativa Hub Qena (TIEC):** Web Design, React.js, and Flutter Mobile Development.
 - Specializing in cross-platform mobile development with **Flutter & Dart**, focusing on **Clean Architecture**, **Firebase** (Auth, Firestore), and robust state management (**BLoC / Cubit**).
